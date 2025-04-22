@@ -14,6 +14,8 @@ public class main {
         ob.display();
         ob.insert_at_pos(2, 2);
         ob.display();
+        ob.delete_at_beg();
+        ob.display();
     }
     
 }
